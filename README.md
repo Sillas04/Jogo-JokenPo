@@ -9,6 +9,8 @@ Geração aleatória das jogadas da máquina.
 
 Validação de entradas do jogador.
 
+Armazenamento de ponto e reset de placar ao atingir 3 vitórias.
+
 Opção de repetir o jogo quantas vezes quiser.
 
 Ideal para iniciantes que estão aprendendo lógica de programação, uso de condicionais, loops, funções da biblioteca stdlib.h, e geração de números aleatórios.
